@@ -29,7 +29,7 @@ fun profissao (modifier: Modifier = Modifier) {
     Escolha_aleatoriaTheme(darkTheme.value) {
 //yourContent
 
-        val imagem = painterResource(id = R.drawable.inicio)
+        val imagem = painterResource(id = R.drawable.verde)
 
         Box(
             modifier = modifier

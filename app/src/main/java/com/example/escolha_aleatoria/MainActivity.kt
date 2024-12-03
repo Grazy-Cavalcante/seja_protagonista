@@ -34,7 +34,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             Escolha_aleatoriaTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-                    cientista(modifier = Modifier.padding(innerPadding))
+                   fim_cinco(modifier = Modifier.padding(innerPadding))
                 }
             }
         }

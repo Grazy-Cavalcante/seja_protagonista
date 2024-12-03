@@ -62,11 +62,14 @@ drawable ciencia
 drawable cinema
 drawable comeco
 drawable comedia
+drawable dinheiro
 drawable drama
 drawable empresario
 drawable fantasia
 drawable fotografia
+drawable ganancia
 drawable genero
+drawable gravacao
 drawable ic_call_answer
 drawable ic_call_answer_low
 drawable ic_call_answer_video
@@ -80,6 +83,8 @@ drawable laranja
 drawable livro
 drawable love
 drawable medico
+drawable mentira
+drawable morte
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -99,6 +104,8 @@ drawable retangulo
 drawable romance
 drawable rosa
 drawable roxo
+drawable surpresa
+drawable traicao
 drawable verde
 font lilita
 id accessibility_action_clickable_span
