@@ -1,198 +1,210 @@
 [
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_surpresa.png.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\surpresa.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\font_lilita.ttf.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\font\\lilita.ttf"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_comedia.png.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\comedia.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_fotografia.png.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\fotografia.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_acao.png.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\acao.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_bats.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\bats.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.escolha_aleatoria.app-debug-45:/drawable_morte.png.flat",
-        "source": "com.example.escolha_aleatoria.app-main-47:/drawable/morte.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_empresario.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\empresario.png"
     },
     {
-        "merged": "com.example.escolha_aleatoria.app-debug-45:/drawable_mentira.png.flat",
-        "source": "com.example.escolha_aleatoria.app-main-47:/drawable/mentira.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_comedia.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\comedia.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_bats.png.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\bats.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_romance.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\romance.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_azul_claro.png.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\azul_claro.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_surpresa.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\surpresa.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.escolha_aleatoria.app-debug-45:/drawable_dinheiro.png.flat",
-        "source": "com.example.escolha_aleatoria.app-main-47:/drawable/dinheiro.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_livro.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\livro.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_ganancia.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\ganancia.png"
     },
     {
-        "merged": "com.example.escolha_aleatoria.app-debug-45:/drawable_traicao.png.flat",
-        "source": "com.example.escolha_aleatoria.app-main-47:/drawable/traicao.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_laranja.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\laranja.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_livro.png.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\livro.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_verde.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\verde.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_ciencia.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\ciencia.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_romance.png.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\romance.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_fantasia.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\fantasia.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_azul_escuro.png.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\azul_escuro.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.escolha_aleatoria.app-debug-53:/drawable_advogado.png.flat",
+        "source": "com.example.escolha_aleatoria.app-main-55:/drawable/advogado.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_drama.png.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\drama.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_azul_escuro.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\azul_escuro.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_verde.png.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\verde.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_fotografia.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\fotografia.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_retangulo.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\retangulo.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_cinema.png.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\cinema.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_psicologo.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\psicologo.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_profissao.png.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\profissao.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_traicao.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\traicao.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_ciencia.png.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\ciencia.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_fantasia.png.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\fantasia.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_rosa.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\rosa.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.escolha_aleatoria.app-debug-45:/drawable_gravacao.png.flat",
-        "source": "com.example.escolha_aleatoria.app-main-47:/drawable/gravacao.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_azul_claro.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\azul_claro.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_profissao.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\profissao.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_love.png.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\love.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_dinheiro.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\dinheiro.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_mentira.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\mentira.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_morte.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\morte.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_roxo.png.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\roxo.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_inicio.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\inicio.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_comeco.png.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\comeco.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_rosa.png.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\rosa.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_cinema.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\cinema.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_empresario.png.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\empresario.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_acao.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\acao.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_laranja.png.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\laranja.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_gravacao.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\gravacao.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\xml\\backup_rules.xml"
+        "merged": "com.example.escolha_aleatoria.app-debug-53:/drawable_desenvolvedor.png.flat",
+        "source": "com.example.escolha_aleatoria.app-main-55:/drawable/desenvolvedor.png"
     },
     {
-        "merged": "com.example.escolha_aleatoria.app-debug-45:/drawable_ganancia.png.flat",
-        "source": "com.example.escolha_aleatoria.app-main-47:/drawable/ganancia.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_genero.jpg.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\genero.jpg"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_inicio.png.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\inicio.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_drama.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\drama.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\font_lilita.ttf.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\font\\lilita.ttf"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_medico.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\medico.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_psicologo.png.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\psicologo.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_genero.jpg.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\genero.jpg"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_comeco.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\comeco.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_medico.png.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\medico.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_love.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\love.png"
     },
     {
-        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-45:\\drawable_retangulo.png.flat",
-        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-47:\\drawable\\retangulo.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.escolha_aleatoria.app-debug-53:/drawable_engenheiro.png.flat",
+        "source": "com.example.escolha_aleatoria.app-main-55:/drawable/engenheiro.png"
+    },
+    {
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-debug-53:\\drawable_roxo.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.7\\com.example.escolha_aleatoria.app-main-55:\\drawable\\roxo.png"
     }
 ]
