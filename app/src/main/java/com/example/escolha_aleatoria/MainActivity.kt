@@ -230,7 +230,7 @@ fun telaPrincipal(navController: NavController) {
                     )
                     Spacer(modifier = Modifier.height(20.dp))
                     Text(
-                        text = "Seja o protagonista\n  do seu filme!",
+                        text = "Monte uma história\n aleatoriamente.",
                         style = TextStyle(
                             color = black,
                             fontSize = 35.sp,
@@ -245,7 +245,7 @@ fun telaPrincipal(navController: NavController) {
                         onClick = {
                             navController.navigate("genero")
                         },
-                        modifier = Modifier.height(70.dp).width(300.dp).shadow(15.dp),
+                        modifier = Modifier.height(70.dp).width(300.dp),
                         colors = ButtonDefaults.buttonColors(containerColor = MaterialTheme.colorScheme.secondary)
 
 

@@ -79,7 +79,7 @@ fun sinopse (navController: NavHostController) {
                     Spacer(modifier = Modifier.height(40.dp))
                     Button(
                         onClick = {navController.navigate(telasSorteio.random())},
-                        modifier = Modifier.height(70.dp).width(300.dp). shadow(15.dp),
+                        modifier = Modifier.height(70.dp).width(300.dp),
                         colors = ButtonDefaults.buttonColors(containerColor = MaterialTheme.colorScheme.secondary)
 
 
